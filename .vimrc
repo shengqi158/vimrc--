@@ -160,7 +160,7 @@ filetype plugin indent on
 
 let g:pydoc_cmd = "/usr/local/bin/pydoc"
 "ctag 目录查询
-au BufEnter /home/liaoxinxi/basescan/ccms/* setlocal tags+=/home/liaoxinxi/basescan/ccms/tags
+
 
 """"""""""""""""""""""""""""""
 " Tag list (ctags)
